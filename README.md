@@ -1,8 +1,8 @@
 ## Olá, eu sou o Mateus / Theeussx 👋
 
-🎓 **Estudante de Engenharia de Software**  
+🎓 **Estudante de Engenharia da computação**  
 📱 **Programo 100% via celular**  
-🧠 **Full-Stack Developer & Criador de Bots**
+🧠 **back-end Criador de Bots e sistemas**
 
 ---
 
