@@ -53,8 +53,8 @@
 - 📱 Programador mobile raiz (Termux + web editors)
 - 🤖 Criador de bots e automações em JavaScript
 - 🚀 Projeto principal: [Wardizitto](https://github.com/theeussx/Wardizitto)
-- 🌐 Desenvolvedor Full-Stack Web
-- 🔧 Stack base: React • Vite • Tailwind • Node • MySQL
+- 🌐 Desenvolvedor Back-end
+- 🔧 Stack base: typerscript  React • Node • MySQL
 
 > *“Não é sobre as ferramentas que você tem.  
 É sobre o que você constrói com elas.”*
