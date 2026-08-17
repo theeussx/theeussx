@@ -23,7 +23,7 @@
 <br><br>
 
 <!-- ─────────────── TYPING ANIMATION ─────────────── -->
-<a href="https://thzimx.vercel.app/">
+<a href="https://theeussx.vercel.app/">
   <img
     src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=760&height=48&lines=%3E+Initializing+Theeussx+Core...;%3E+Backend+systems+online.;%3E+Bots+%26+APIs+deployed+successfully.;%3E+Compiling+the+future+from+a+phone.;%3E+Welcome+to+my+GitHub."
     alt="Typing animation"
@@ -69,8 +69,8 @@ const theeussx: Developer = {
   nome:      "Mateus Henrique",
   alias:     "theeussx",
   cargo:     "Backend Developer & Bot Creator",
-  formacao:  "Engenharia da Computação",
-  local:     "Brasil 🇧🇷",
+  estudo:    "Engenharia da Computação",
+  local:     "Brasil ",
   setup:     ["Termux", "VSCode Web", "GitHub Mobile"],
   stack:     ["TypeScript", "Node.js", "React", "MySQL"],
   focoAtual: "APIs escaláveis, automações e sistemas",
@@ -145,8 +145,6 @@ const theeussx: Developer = {
 **🗄️ &nbsp;DATA & INFRA**
 
 <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=00D4FF" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=34D399" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Prisma-020617?style=for-the-badge&logo=prisma&logoColor=F8FAFC" alt="Prisma"/>
 <img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC" alt="Vercel"/>
 <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316" alt="Git"/>
 
@@ -238,7 +236,7 @@ const theeussx: Developer = {
 <img src="https://img.shields.io/badge/Vite-020617?style=flat-square&logo=vite&logoColor=A78BFA&labelColor=020617" alt="tag"/>
 <img src="https://img.shields.io/badge/Tailwind-020617?style=flat-square&logo=tailwindcss&logoColor=22D3EE&labelColor=020617" alt="tag"/>
 
-<sub>🌐 &nbsp;Portfólio pessoal com design futurista — <a href="https://thzimx.vercel.app/">thzimx.vercel.app</a></sub>
+<sub>🌐 &nbsp;Portfólio pessoal com design futurista — <a href="https://theeussx.vercel.app/">theeussx.vercel.app</a></sub>
 
 </td>
 </tr>
@@ -300,7 +298,7 @@ theeussx@core:~$ ./roadmap --year 2026 --verbose
 [■■■■■□□□□□]  58%  ▸ Escalar o Wardizitto para +1k servidores
 [■■■■□□□□□□]  41%  ▸ Docker, CI/CD e Cloud (AWS / Railway)
 [■■■□□□□□□□]  30%  ▸ Publicar meu primeiro pacote npm
-[■■□□□□□□□□]  25%  ▸ Portfólio full-stack de nível sênior
+[■■□□□□□□□□]  25%  ▸ Portfólio full-stack
 
 theeussx@core:~$ echo $MOTIVATION
 > "Cada commit é uma linha a mais no meu futuro."
@@ -404,13 +402,13 @@ theeussx@core:~$ _
 <a href="https://www.linkedin.com/in/mateus-henrique-b19aa2305">
   <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=3B82F6&labelColor=020617" alt="LinkedIn" height="38"/>
 </a>
-<a href="https://www.instagram.com/theeussx">
+<a href="https://www.instagram.com/theeussx_">
   <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=F472B6&labelColor=020617" alt="Instagram" height="38"/>
 </a>
-<a href="https://thzimx.vercel.app/">
+<a href="https://theeussx.vercel.app/">
   <img src="https://img.shields.io/badge/Portfólio-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=020617" alt="Portfólio" height="38"/>
 </a>
-<a href="mailto:theeussx@gmail.com">
+<a href="mailto: mateushenrique6968@gmail.com">
   <img src="https://img.shields.io/badge/E--mail-020617?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=020617" alt="E-mail" height="38"/>
 </a>
 
