@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" fill="none" role="img" aria-label="Boot sequence">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#020617"/>
+    <stop offset="55%" stop-color="#0B1024"/>
+    <stop offset="100%" stop-color="#0A0A2E"/>
+  </linearGradient>
+  <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#4F46E5"/>
+    <stop offset="60%" stop-color="#6366F1"/>
+    <stop offset="100%" stop-color="#22D3EE"/>
+  </linearGradient>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.16"/>
+    <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M30 0H0V30" fill="none" stroke="#6366F1" stroke-opacity="0.10" stroke-width="1"/>
+  </pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="frame"><rect x="0" y="0" width="900" height="330" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="900" height="330" fill="url(#bg)"/>
+<rect width="900" height="330" fill="url(#grid)"/>
+<circle cx="70" cy="300" r="180" fill="#4F46E5" opacity="0.10"/>
+<circle cx="840" cy="30" r="150" fill="#22D3EE" opacity="0.07"/>
+<rect x="0" y="-60" width="900" height="60" fill="url(#scan)">
+  <animate attributeName="y" values="-60;330" dur="4.5s" repeatCount="indefinite"/>
+</rect>
+<rect x="0" y="0" width="900" height="40" fill="#060B1F" fill-opacity="0.95"/>
+<line x1="0" y1="40" x2="900" y2="40" stroke="#6366F1" stroke-opacity="0.35"/>
+<circle cx="24" cy="20" r="6" fill="#FF5F57" opacity="0.9"/>
+<circle cx="44" cy="20" r="6" fill="#FEBC2E" opacity="0.9"/>
+<circle cx="64" cy="20" r="6" fill="#28C840" opacity="0.9"/>
+<text x="100" y="25" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="13" fill="#64748B">theeussx@core:~/system/boot</text>
+<g font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="12">
+  <circle cx="750" cy="20" r="4" fill="#34D399"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="762" y="25" fill="#34D399">SECURE SHELL</text>
+</g>
+<clipPath id="clip0"><rect x="30" y="58" width="0" height="26">
+      <animate attributeName="width" values="0;0;820;820;0" keyTimes="0;0.0600;0.1000;0.955;1" dur="15.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+<g clip-path="url(#clip0)" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="14.5">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0500;0.0600;0.9400;1" dur="15.0s" repeatCount="indefinite" />
+      <text x="30" y="74" fill="#34D399" font-weight="700">[  OK  ]</text>
+      <text x="118" y="74" fill="#64748B">booting</text>
+      <text x="189" y="74" fill="#6366F1" font-weight="700">theeussx.core</text>
+      <text x="312" y="74" fill="#CBD5E1" opacity="0.75">v4.0.1  ::  neural backend runtime</text>
+    </g>
+<clipPath id="clip1"><rect x="30" y="85" width="0" height="26">
+      <animate attributeName="width" values="0;0;820;820;0" keyTimes="0;0.1367;0.1767;0.955;1" dur="15.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+<g clip-path="url(#clip1)" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="14.5">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1267;0.1367;0.9400;1" dur="15.0s" repeatCount="indefinite" />
+      <text x="30" y="101" fill="#34D399" font-weight="700">[  OK  ]</text>
+      <text x="118" y="101" fill="#64748B">mounting</text>
+      <text x="198" y="101" fill="#6366F1" font-weight="700">/dev/termux</text>
+      <text x="303" y="101" fill="#CBD5E1" opacity="0.75">mobile-only development environment</text>
+    </g>
+<clipPath id="clip2"><rect x="30" y="112" width="0" height="26">
+      <animate attributeName="width" values="0;0;820;820;0" keyTimes="0;0.2133;0.2533;0.955;1" dur="15.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+<g clip-path="url(#clip2)" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="14.5">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2033;0.2133;0.9400;1" dur="15.0s" repeatCount="indefinite" />
+      <text x="30" y="128" fill="#34D399" font-weight="700">[  OK  ]</text>
+      <text x="118" y="128" fill="#64748B">loading</text>
+      <text x="189" y="128" fill="#6366F1" font-weight="700">modules</text>
+      <text x="260" y="128" fill="#CBD5E1" opacity="0.75">node · typescript · express · prisma</text>
+    </g>
+<clipPath id="clip3"><rect x="30" y="139" width="0" height="26">
+      <animate attributeName="width" values="0;0;820;820;0" keyTimes="0;0.2900;0.3300;0.955;1" dur="15.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+<g clip-path="url(#clip3)" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="14.5">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2800;0.2900;0.9400;1" dur="15.0s" repeatCount="indefinite" />
+      <text x="30" y="155" fill="#34D399" font-weight="700">[  OK  ]</text>
+      <text x="118" y="155" fill="#64748B">linking</text>
+      <text x="189" y="155" fill="#6366F1" font-weight="700">databases</text>
+      <text x="277" y="155" fill="#CBD5E1" opacity="0.75">mysql://cluster · mongodb://atlas</text>
+    </g>
+<clipPath id="clip4"><rect x="30" y="166" width="0" height="26">
+      <animate attributeName="width" values="0;0;820;820;0" keyTimes="0;0.3667;0.4067;0.955;1" dur="15.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+<g clip-path="url(#clip4)" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="14.5">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3567;0.3667;0.9400;1" dur="15.0s" repeatCount="indefinite" />
+      <text x="30" y="182" fill="#FBBF24" font-weight="700">[ WARN ]</text>
+      <text x="118" y="182" fill="#64748B">missing</text>
+      <text x="189" y="182" fill="#6366F1" font-weight="700">coffee.service</text>
+      <text x="321" y="182" fill="#CBD5E1" opacity="0.75">fallback: pure willpower engaged</text>
+    </g>
+<clipPath id="clip5"><rect x="30" y="193" width="0" height="26">
+      <animate attributeName="width" values="0;0;820;820;0" keyTimes="0;0.4433;0.4833;0.955;1" dur="15.0s" repeatCount="indefinite"/>
+    </rect></clipPath>
+<g clip-path="url(#clip5)" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="14.5">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4333;0.4433;0.9400;1" dur="15.0s" repeatCount="indefinite" />
+      <text x="30" y="209" fill="#34D399" font-weight="700">[  OK  ]</text>
+      <text x="118" y="209" fill="#64748B">deploying</text>
+      <text x="206" y="209" fill="#6366F1" font-weight="700">bots</text>
+      <text x="251" y="209" fill="#CBD5E1" opacity="0.75">wardizitto · uptime 99.9%</text>
+    </g>
+<g >
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5100;0.5200;0.9400;1" dur="15.0s" repeatCount="indefinite" />
+  <text x="30" y="240" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="12" fill="#64748B">compiling neural interface</text>
+  <rect x="30" y="248" width="700" height="8" rx="4" fill="#111a3a"/>
+  <rect x="30" y="248" width="0" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)">
+    <animate attributeName="width" values="0;140;320;520;700;700" keyTimes="0;0.2;0.45;0.7;0.9;1" dur="15.0s" repeatCount="indefinite"/>
+  </rect>
+  <text x="750" y="257" font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="12" fill="#22D3EE">
+    100%
+  </text>
+</g>
+<g font-family="JetBrains Mono,Fira Code,Consolas,monospace" font-size="17" font-weight="700">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5900;0.6000;0.9400;1" dur="15.0s" repeatCount="indefinite" />
+  <text x="30" y="294" fill="#6366F1">&gt;</text>
+  <text x="50" y="294" fill="#F8FAFC" filter="url(#glow)">SYSTEM ONLINE — WELCOME TO THEEUSSX CORE</text>
+  <rect x="529" y="280" width="10" height="18" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</g>
+<rect x="0.5" y="0.5" width="899" height="329" rx="14" fill="none" stroke="#6366F1" stroke-opacity="0.45"/>
+</svg>

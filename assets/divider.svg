@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="26" viewBox="0 0 900 26" fill="none" role="img" aria-label="divider">
+<defs>
+  <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#4F46E5" stop-opacity="0"/>
+    <stop offset="25%" stop-color="#4F46E5" stop-opacity="0.9"/>
+    <stop offset="50%" stop-color="#22D3EE" stop-opacity="1"/>
+    <stop offset="75%" stop-color="#6366F1" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="dgl" x="-20%" y="-400%" width="140%" height="900%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="0" y="12" width="900" height="2" fill="url(#dg)" filter="url(#dgl)"/>
+<circle cx="0" cy="13" r="4" fill="#22D3EE" filter="url(#dgl)">
+  <animate attributeName="cx" values="60;840;60" dur="6s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
+</circle>
+<polygon points="450,4 458,13 450,22 442,13" fill="#6366F1" opacity="0.9"/>
+</svg>
