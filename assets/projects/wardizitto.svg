@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440" fill="none" role="img" aria-label="wardizitto preview">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#020617"/>
+    <stop offset="55%" stop-color="#0B1024"/>
+    <stop offset="100%" stop-color="#1E1B4B"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+    <stop offset="0%" stop-color="#5865F2" stop-opacity="0.45"/>
+    <stop offset="55%" stop-color="#5865F2" stop-opacity="0.10"/>
+    <stop offset="100%" stop-color="#5865F2" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#6366F1"/>
+    <stop offset="50%" stop-color="#5865F2"/>
+    <stop offset="100%" stop-color="#22D3EE"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#5865F2" stroke-opacity="0.10" stroke-width="1"/>
+  </pattern>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+  <clipPath id="frame"><rect x="0" y="0" width="880" height="440" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="880" height="440" fill="url(#bg)"/>
+<rect width="880" height="440" fill="url(#grid)"/>
+<circle cx="760" cy="100" r="280" fill="url(#glow)"/>
+<circle cx="120" cy="380" r="220" fill="url(#glow)" opacity="0.7"/>
+<rect x="0" y="-40" width="880" height="36" fill="#5865F2" opacity="0.07">
+      <animate attributeName="y" values="-40;460" dur="6s" repeatCount="indefinite"/>
+    </rect>
+<rect x="0.5" y="0.5" width="879" height="439" rx="18" fill="none" stroke="#5865F2" stroke-opacity="0.25" stroke-width="1"/>
+<g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12">
+  <text x="32" y="42" fill="#64748B" letter-spacing="2">discord-bot / multifuncional</text>
+  <g transform="translate(750,30)">
+    <rect x="0" y="0" width="98" height="22" rx="11" fill="#020617" stroke="#34D399" stroke-opacity="0.45"/>
+    <circle cx="14" cy="11" r="4" fill="#34D399">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="26" y="15" fill="#34D399" font-weight="700">ONLINE</text>
+  </g>
+</g>
+<g transform="translate(550,140)">
+<polygon points="110,8 198,55 198,165 110,212 22,165 22,55" fill="none" stroke="#5865F2" stroke-opacity="0.55" stroke-width="2.5"/>
+<polygon points="110,40 170,75 170,145 110,180 50,145 50,75" fill="#5865F2" fill-opacity="0.18" stroke="#5865F2" stroke-opacity="0.85" stroke-width="2"/>
+<text x="110" y="125" font-family="JetBrains Mono, monospace" font-size="52" font-weight="800" text-anchor="middle" fill="#F8FAFC" letter-spacing="-2">WD</text>
+</g>
+<g font-family="JetBrains Mono, Fira Code, Consolas, monospace">
+  <text x="32" y="160" font-size="44" font-weight="800" fill="#F8FAFC" letter-spacing="-1">Wardizitto</text>
+  <text x="32" y="190" font-size="14" fill="#64748B">// discord.js · node 20 · typescript · prisma · mysql</text>
+</g>
+<g font-family="JetBrains Mono, monospace" font-size="11">
+  <text x="32" y="346" fill="#64748B" letter-spacing="1.5">UPTIME</text>
+  <text x="848" y="346" fill="#5865F2" font-weight="700" text-anchor="end">99.9%</text>
+  <rect x="32" y="356" width="816" height="6" rx="3" fill="#1E1B4B"/>
+  <rect x="32" y="356" width="816" height="6" rx="3" fill="url(#barGrad)"/>
+</g>
+<g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" font-weight="600">
+  <rect x="32" y="250" width="104" height="26" rx="13" fill="#020617" stroke="#5865F2" stroke-opacity="0.55"/>
+  <text x="46" y="267" fill="#5865F2" letter-spacing="0.5">TypeScript</text>
+</g>
+<g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" font-weight="600">
+  <rect x="144" y="250" width="104" height="26" rx="13" fill="#020617" stroke="#64748B" stroke-opacity="0.55"/>
+  <text x="158" y="267" fill="#64748B" letter-spacing="0.5">discord.js</text>
+</g>
+<g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" font-weight="600">
+  <rect x="256" y="250" width="73" height="26" rx="13" fill="#020617" stroke="#64748B" stroke-opacity="0.55"/>
+  <text x="270" y="267" fill="#64748B" letter-spacing="0.5">Prisma</text>
+</g>
+<g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" font-weight="600">
+  <rect x="337" y="250" width="66" height="26" rx="13" fill="#020617" stroke="#64748B" stroke-opacity="0.55"/>
+  <text x="351" y="267" fill="#64748B" letter-spacing="0.5">MySQL</text>
+</g>
+<g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" font-weight="600">
+  <rect x="411" y="250" width="73" height="26" rx="13" fill="#020617" stroke="#64748B" stroke-opacity="0.55"/>
+  <text x="425" y="267" fill="#64748B" letter-spacing="0.5">Docker</text>
+</g>
+<g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="12" font-weight="600">
+  <rect x="492" y="250" width="81" height="26" rx="13" fill="#020617" stroke="#64748B" stroke-opacity="0.55"/>
+  <text x="506" y="267" fill="#64748B" letter-spacing="0.5">Node 20</text>
+</g>
+</g>
+</svg>
