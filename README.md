@@ -204,66 +204,99 @@ const theeussx: Developer = {
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
-     PROJETOS EM CARDS
+     PROJETOS PINADOS
      ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> &nbsp;`04` &nbsp;PROJETOS EM DESTAQUE &nbsp;<img src="https://img.shields.io/badge/-projects.map()-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> &nbsp;`04` &nbsp;PROJETOS PINADOS &nbsp;<img src="https://img.shields.io/badge/-projects.map()-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<!-- ──────────── WARDIZITTO ──────────── -->
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/theeussx/Wardizitto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theeussx&repo=Wardizitto&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=22D3EE&text_color=94A3B8&border_radius=12" alt="Wardizitto"/>
+  <img
+    src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/projects/wardizitto.svg"
+    width="100%"
+    style="border-radius:12px;border:1px solid #1E1B4B;background:#0B1024"
+    alt="Wardizitto — Discord Bot"
+  />
 </a>
+
+<br>
 
 <img src="https://img.shields.io/badge/Discord_Bot-020617?style=flat-square&logo=discord&logoColor=5865F2&labelColor=020617" alt="tag"/>
 <img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=6366F1&labelColor=020617" alt="tag"/>
 <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=34D399&labelColor=020617" alt="tag"/>
 
-<sub>🤖 &nbsp;Bot de Discord multifuncional com moderação, economia e automações.</sub>
+<br><sub>🤖 &nbsp;Bot de Discord multifuncional — moderação, economia, música e automações.</sub>
 
 </td>
-<td width="50%" align="center">
+<!-- ──────────── TCF ──────────── -->
+<td width="50%" align="center" valign="top">
 
-<a href="https://thzimx.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theeussx&repo=portfolio&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=22D3EE&text_color=94A3B8&border_radius=12" alt="Portfólio"/>
+<a href="https://github.com/theeussx/Tcf">
+  <img
+    src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/projects/tcf.svg"
+    width="100%"
+    style="border-radius:12px;border:1px solid #1E1B4B;background:#0B1024"
+    alt="TCF — Trabalho de Conclusão Final"
+  />
 </a>
+
+<br>
 
 <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=22D3EE&labelColor=020617" alt="tag"/>
 <img src="https://img.shields.io/badge/Vite-020617?style=flat-square&logo=vite&logoColor=A78BFA&labelColor=020617" alt="tag"/>
 <img src="https://img.shields.io/badge/Tailwind-020617?style=flat-square&logo=tailwindcss&logoColor=22D3EE&labelColor=020617" alt="tag"/>
 
-<sub>🌐 &nbsp;Portfólio pessoal com design futurista — <a href="https://theeussx.vercel.app/">theeussx.vercel.app</a></sub>
+<br><sub>🎓 &nbsp;Site interativo do TCF — visualizações dinâmicas e navegação fluída.</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<!-- ──────────── PTERODROID ──────────── -->
+<td width="50%" align="center" valign="top">
 
-<a href="https://github.com/theeussx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theeussx&repo=api-studies&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=22D3EE&text_color=94A3B8&border_radius=12" alt="API Studies"/>
+<a href="https://github.com/theeussx/pterodroid">
+  <img
+    src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/projects/pterodroid.svg"
+    width="100%"
+    style="border-radius:12px;border:1px solid #1E1B4B;background:#0B1024"
+    alt="pterodroid — Panel for Termux"
+  />
 </a>
 
-<img src="https://img.shields.io/badge/Express-020617?style=flat-square&logo=express&logoColor=F8FAFC&labelColor=020617" alt="tag"/>
-<img src="https://img.shields.io/badge/MySQL-020617?style=flat-square&logo=mysql&logoColor=00D4FF&labelColor=020617" alt="tag"/>
-<img src="https://img.shields.io/badge/Prisma-020617?style=flat-square&logo=prisma&logoColor=F8FAFC&labelColor=020617" alt="tag"/>
+<br>
 
-<sub>⚙️ &nbsp;Laboratório de APIs REST: auth, CRUD, validação e boas práticas.</sub>
+<img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=FBBF24&labelColor=020617" alt="tag"/>
+<img src="https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=22D3EE&labelColor=020617" alt="tag"/>
+<img src="https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=F8FAFC&labelColor=020617" alt="tag"/>
+
+<br><sub>🐉 &nbsp;Painel Pterodactyl-like para Termux · Android · Ubuntu (proot).</sub>
 
 </td>
-<td width="50%" align="center">
+<!-- ──────────── FEIRA DE MATEMÁTICA ──────────── -->
+<td width="50%" align="center" valign="top">
 
-<a href="https://github.com/theeussx?tab=repositories">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:020617,50:1E1B4B,100:312E81&text=MAIS%20PROJETOS&fontColor=FFFFFF&fontSize=26&fontAlignY=45&desc=explorar%20repositorios&descAlignY=72&descSize=13&reversal=false" width="100%" alt="Mais projetos"/>
+<a href="https://github.com/theeussx/feira-matematica">
+  <img
+    src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/projects/feira-matematica.svg"
+    width="100%"
+    style="border-radius:12px;border:1px solid #1E1B4B;background:#0B1024"
+    alt="Feira de Matemática"
+  />
 </a>
 
-<img src="https://img.shields.io/badge/Open_Source-020617?style=flat-square&logo=opensourceinitiative&logoColor=34D399&labelColor=020617" alt="tag"/>
-<img src="https://img.shields.io/badge/Automations-020617?style=flat-square&logo=githubactions&logoColor=6366F1&labelColor=020617" alt="tag"/>
+<br>
 
-<sub>📂 &nbsp;Experimentos, estudos e automações — sempre em expansão.</sub>
+<img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=6366F1&labelColor=020617" alt="tag"/>
+<img src="https://img.shields.io/badge/Vite-020617?style=flat-square&logo=vite&logoColor=A78BFA&labelColor=020617" alt="tag"/>
+<img src="https://img.shields.io/badge/Vercel-020617?style=flat-square&logo=vercel&logoColor=F8FAFC&labelColor=020617" alt="tag"/>
+
+<br><sub>📐 &nbsp;Aplicação educativa — projetos de matemática com imersão e impacto.</sub>
 
 </td>
 </tr>
@@ -319,12 +352,12 @@ theeussx@core:~$ _
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=theeussx&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=22D3EE&text_color=94A3B8&ring_color=6366F1&border_radius=12&custom_title=%E2%9A%A1%20System%20Stats"
+  src="https://github-readme-stats.vercel.app/api?username=theeussx&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=6366F1&amp;icon_color=22D3EE&amp;text_color=94A3B8&amp;ring_color=6366F1&amp;border_radius=12&amp;custom_title=%E2%9A%A1%20System%20Stats"
   width="49%"
   alt="GitHub Stats"
 />
 <img
-  src="https://streak-stats.demolab.com/?user=theeussx&theme=github-dark-blue&hide_border=true&background=00000000&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1&sideLabels=94A3B8&dates=64748B&border_radius=12"
+  src="https://streak-stats.demolab.com/?user=theeussx&amp;theme=dark&amp;hide_border=true&amp;background=00000000&amp;ring=6366F1&amp;fire=22D3EE&amp;currStreakLabel=6366F1&amp;sideLabels=94A3B8&amp;dates=64748B&amp;border_radius=12"
   width="49%"
   alt="GitHub Streak"
 />
@@ -332,21 +365,16 @@ theeussx@core:~$ _
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theeussx&layout=compact&langs_count=8&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=94A3B8&border_radius=12&custom_title=%F0%9F%A7%A0%20Language%20Matrix"
-  width="41%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theeussx&amp;layout=compact&amp;langs_count=8&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=6366F1&amp;text_color=94A3B8&amp;border_radius=12&amp;custom_title=%F0%9F%A7%A0%20Language%20Matrix"
+  width="60%"
   alt="Top Languages"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=theeussx&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=94A3B8&border_radius=12&custom_title=%E2%8F%B1%20Coding%20Activity"
-  width="41%"
-  alt="Wakatime"
 />
 
 <br><br>
 
 <!-- ─────────────── ACTIVITY GRAPH ─────────────── -->
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=theeussx&bg_color=00000000&color=6366F1&line=22D3EE&point=F8FAFC&area_color=4F46E5&title_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Signal%20%E2%80%94%20last%2031%20days"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=theeussx&amp;bg_color=00000000&amp;color=6366F1&amp;line=22D3EE&amp;point=F8FAFC&amp;area_color=4F46E5&amp;title_color=6366F1&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Signal%20%E2%80%94%20last%2031%20days"
   width="98%"
   alt="Activity Graph"
 />
@@ -355,7 +383,7 @@ theeussx@core:~$ _
 
 <!-- ─────────────── TROPHIES ─────────────── -->
 <img
-  src="https://github-profile-trophy.vercel.app/?username=theeussx&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience,PullRequest"
+  src="https://github-profile-trophy.vercel.app/?username=theeussx&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=7&amp;title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience,PullRequest"
   width="98%"
   alt="GitHub Trophies"
 />
