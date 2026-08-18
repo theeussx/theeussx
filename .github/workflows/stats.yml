@@ -1,12 +1,7 @@
 # ═══════════════════════════════════════════════════════════════════════
-#  README STATS — auto-hospedagem via GitHub Actions
-#
-#  O serviço público https://github-readme-stats.vercelapp está
-#  deployment-paused desde 02/2026 (issue #4680 upstream). A solução
-#  recomendada pelos próprios mantenedores do projeto é gerar os SVGs
-#  localmente neste perfil. Esta action fica responsável pelas figuras
-#  "GitHub Stats" e "Top Languages" do README.md.
+# README STATS — geração local via GitHub Actions
 # ═══════════════════════════════════════════════════════════════════════
+
 name: Update README Stats
 
 on:
@@ -20,32 +15,70 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout
+      # ─────────────────────────────────────────────────────────────────
+      # Checkout
+      # ─────────────────────────────────────────────────────────────────
+
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats card
+      # ─────────────────────────────────────────────────────────────────
+      # GitHub Stats
+      # ─────────────────────────────────────────────────────────────────
+
+      - name: Generate GitHub Stats
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=22D3EE&text_color=94A3B8&ring_color=6366F1&border_radius=12&custom_title=⚡ System Stats"
+          options: >-
+            username=${{ github.repository_owner }}&
+            show_icons=true&
+            theme=github_dark&
+            hide_border=true&
+            bg_color=00000000&
+            title_color=6366F1&
+            icon_color=22D3EE&
+            text_color=94A3B8&
+            border_radius=12&
+            custom_title=System Stats
           path: stats/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Top Languages card
+      # ─────────────────────────────────────────────────────────────────
+      # Top Languages
+      # ─────────────────────────────────────────────────────────────────
+
+      - name: Generate Top Languages
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=94A3B8&border_radius=12&custom_title=🧠 Language Matrix"
+          options: >-
+            username=${{ github.repository_owner }}&
+            layout=compact&
+            langs_count=8&
+            theme=github_dark&
+            hide_border=true&
+            bg_color=00000000&
+            title_color=6366F1&
+            text_color=94A3B8&
+            border_radius=12&
+            custom_title=Language Matrix
           path: stats/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ─────────────────────────────────────────────────────────────────
+      # Commit SVGs
+      # ─────────────────────────────────────────────────────────────────
 
       - name: Commit generated SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stats/*.svg
-          git commit -m "chore(stats): refresh github stats SVGs" || echo "nothing to commit"
+
+          git add stats/stats.svg stats/top-langs.svg
+
+          git diff --cached --quiet || \
+            git commit -m "chore(stats): refresh github stats"
+
           git push
