@@ -373,6 +373,7 @@ theeussx@core:~$ _
 <br><br>
 
 <img src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/divider.svg" width="100%" alt="divider"/>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
      SNAKE ANIMATION
