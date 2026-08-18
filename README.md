@@ -349,26 +349,9 @@ theeussx@core:~$ _
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> &nbsp;`06` &nbsp;NEURAL METRICS &nbsp;<img src="https://img.shields.io/badge/-github.stats-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
 
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/theeussx/theeussx/main/stats/stats.svg"
-  width="49%"
-  alt="GitHub Stats"
-/>
-<img
-  src="https://streak-stats.demolab.com/?user=theeussx&theme=dark&hide_border=true&background=00000000&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1&sideLabels=94A3B8&dates=64748B&border_radius=12"
-  width="49%"
-  alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  src="https://raw.githubusercontent.com/theeussx/theeussx/main/stats/top-langs.svg"
-  width="60%"
-  alt="Top Languages"
-/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=theeussx&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=theeussx&theme=github_dark&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theeussx&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
 
 <br><br>
 
