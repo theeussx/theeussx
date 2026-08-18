@@ -349,8 +349,6 @@ theeussx@core:~$ _
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> &nbsp;`06` &nbsp;NEURAL METRICS &nbsp;<img src="https://img.shields.io/badge/-github.stats-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
 
-> ⚙️ &nbsp;Os cards de **GitHub Stats** e **Top Languages** são gerados por uma GitHub Action (`.github/workflows/stats.yml`) e versionados neste repo em `./stats/`. Funciona independente do serviço público do `github-readme-stats.vercel.app`, que está com deployment pausado desde 02/2026.
-
 <div align="center">
 
 <img
@@ -374,44 +372,7 @@ theeussx@core:~$ _
 
 <br><br>
 
-<!-- ─────────────── ACTIVITY GRAPH ─────────────── -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=theeussx&bg_color=00000000&color=6366F1&line=22D3EE&point=F8FAFC&area_color=4F46E5&title_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Signal%20%E2%80%94%20last%2031%20days"
-  width="98%"
-  alt="Activity Graph"
-/>
-
-<br>
-
-<!-- ─────────────── TROPHIES ─────────────── -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=theeussx&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience,PullRequest"
-  width="98%"
-  alt="GitHub Trophies"
-/>
-
-</div>
-<!-- ─────────────── ACTIVITY GRAPH ─────────────── -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=theeussx&amp;bg_color=00000000&amp;color=6366F1&amp;line=22D3EE&amp;point=F8FAFC&amp;area_color=4F46E5&amp;title_color=6366F1&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Signal%20%E2%80%94%20last%2031%20days"
-  width="98%"
-  alt="Activity Graph"
-/>
-
-<br>
-
-<!-- ─────────────── TROPHIES ─────────────── -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=theeussx&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=7&amp;title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience,PullRequest"
-  width="98%"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/divider.svg" width="100%" alt="divider"/>
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
      SNAKE ANIMATION
@@ -446,9 +407,6 @@ theeussx@core:~$ _
 <a href="https://github.com/theeussx">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020617" alt="GitHub" height="38"/>
 </a>
-<a href="https://www.linkedin.com/in/mateus-henrique-b19aa2305">
-  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=3B82F6&labelColor=020617" alt="LinkedIn" height="38"/>
-</a>
 <a href="https://www.instagram.com/theeussx_">
   <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=F472B6&labelColor=020617" alt="Instagram" height="38"/>
 </a>
@@ -472,7 +430,6 @@ theeussx@core:~$ _
 <th align="left">PARA QUÊ</th>
 <th align="left">TEMPO DE RESPOSTA</th>
 </tr>
-<tr><td>💼 &nbsp;LinkedIn</td><td>Oportunidades, freelas e networking</td><td><code>~24h</code></td></tr>
 <tr><td>📧 &nbsp;E-mail</td><td>Propostas formais e parcerias</td><td><code>~48h</code></td></tr>
 <tr><td>📸 &nbsp;Instagram</td><td>Bastidores e papo casual</td><td><code>~instantâneo</code></td></tr>
 <tr><td>🐙 &nbsp;GitHub Issues</td><td>Bugs, ideias e colaboração em código</td><td><code>~12h</code></td></tr>
