@@ -349,15 +349,17 @@ theeussx@core:~$ _
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> &nbsp;`06` &nbsp;NEURAL METRICS &nbsp;<img src="https://img.shields.io/badge/-github.stats-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
 
+> ⚙️ &nbsp;Os cards de **GitHub Stats** e **Top Languages** são gerados por uma GitHub Action (`.github/workflows/stats.yml`) e versionados neste repo em `./stats/`. Funciona independente do serviço público do `github-readme-stats.vercel.app`, que está com deployment pausado desde 02/2026.
+
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=theeussx&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=6366F1&amp;icon_color=22D3EE&amp;text_color=94A3B8&amp;ring_color=6366F1&amp;border_radius=12&amp;custom_title=%E2%9A%A1%20System%20Stats"
+  src="https://raw.githubusercontent.com/theeussx/theeussx/main/stats/stats.svg"
   width="49%"
   alt="GitHub Stats"
 />
 <img
-  src="https://streak-stats.demolab.com/?user=theeussx&amp;theme=dark&amp;hide_border=true&amp;background=00000000&amp;ring=6366F1&amp;fire=22D3EE&amp;currStreakLabel=6366F1&amp;sideLabels=94A3B8&amp;dates=64748B&amp;border_radius=12"
+  src="https://streak-stats.demolab.com/?user=theeussx&theme=dark&hide_border=true&background=00000000&ring=6366F1&fire=22D3EE&currStreakLabel=6366F1&sideLabels=94A3B8&dates=64748B&border_radius=12"
   width="49%"
   alt="GitHub Streak"
 />
@@ -365,13 +367,30 @@ theeussx@core:~$ _
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theeussx&amp;layout=compact&amp;langs_count=8&amp;count_private=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=6366F1&amp;text_color=94A3B8&amp;border_radius=12&amp;custom_title=%F0%9F%A7%A0%20Language%20Matrix"
+  src="https://raw.githubusercontent.com/theeussx/theeussx/main/stats/top-langs.svg"
   width="60%"
   alt="Top Languages"
 />
 
 <br><br>
 
+<!-- ─────────────── ACTIVITY GRAPH ─────────────── -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=theeussx&bg_color=00000000&color=6366F1&line=22D3EE&point=F8FAFC&area_color=4F46E5&title_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Signal%20%E2%80%94%20last%2031%20days"
+  width="98%"
+  alt="Activity Graph"
+/>
+
+<br>
+
+<!-- ─────────────── TROPHIES ─────────────── -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=theeussx&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,Experience,PullRequest"
+  width="98%"
+  alt="GitHub Trophies"
+/>
+
+</div>
 <!-- ─────────────── ACTIVITY GRAPH ─────────────── -->
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=theeussx&amp;bg_color=00000000&amp;color=6366F1&amp;line=22D3EE&amp;point=F8FAFC&amp;area_color=4F46E5&amp;title_color=6366F1&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Signal%20%E2%80%94%20last%2031%20days"
