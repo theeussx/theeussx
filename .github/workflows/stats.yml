@@ -1,7 +1,7 @@
 # ═══════════════════════════════════════════════════════════════════════
 #  README STATS — auto-hospedagem via GitHub Actions
 #
-#  O serviço público https://github-readme-stats.vercel.app está
+#  O serviço público https://github-readme-stats.vercelapp está
 #  deployment-paused desde 02/2026 (issue #4680 upstream). A solução
 #  recomendada pelos próprios mantenedores do projeto é gerar os SVGs
 #  localmente neste perfil. Esta action fica responsável pelas figuras
@@ -30,7 +30,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=22D3EE&text_color=94A3B8&ring_color=6366F1&border_radius=12&custom_title=%E2%9A%A1%20System%20Stats"
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=22D3EE&text_color=94A3B8&ring_color=6366F1&border_radius=12&custom_title=⚡ System Stats"
           path: stats/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,7 +38,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=94A3B8&border_radius=12&custom_title=%F0%9F%A7%A0%20Language%20Matrix"
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=94A3B8&border_radius=12&custom_title=🧠 Language Matrix"
           path: stats/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
