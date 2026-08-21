@@ -112,7 +112,7 @@ const theeussx: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,vite,tailwind,html,css,mysql,mongodb,prisma,git,github,vscode,linux,vercel,figma&theme=dark&perline=9" alt="Tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,vite,tailwind,html,css,mysql,git,github,vscode,linux,vercel&theme=dark&perline=9" alt="Tech stack icons"/>
 
 <br><br>
 
