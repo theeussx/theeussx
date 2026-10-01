@@ -328,7 +328,6 @@ const theeussx: Developer = {
 theeussx@core:~$ ./roadmap --year 2026 --verbose
 
 [■■■■■■■□□□]  72%  ▸ Arquitetura de APIs REST + GraphQL
-[■■■■■□□□□□]  58%  ▸ Escalar o Wardizitto para +1k servidores
 [■■■■□□□□□□]  41%  ▸ Docker, CI/CD e Cloud (AWS / Railway)
 [■■■□□□□□□□]  30%  ▸ Publicar meu primeiro pacote npm
 [■■□□□□□□□□]  25%  ▸ Portfólio full-stack
