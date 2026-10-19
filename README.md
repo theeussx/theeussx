@@ -413,7 +413,7 @@ theeussx@core:~$ _
 <th align="left">PARA QUÊ</th>
 <th align="left">TEMPO DE RESPOSTA</th>
 </tr>
-<tr><td>📧 &nbsp;E-mail</td><td>Propostas formais e parcerias</td><td><code>~48h</code></td></tr>
+<tr><td>📧 &nbsp;E-mail</td><td>Propostas formais e parcerias</td><td><code>~24h</code></td></tr>
 <tr><td>📸 &nbsp;Instagram</td><td>Bastidores e papo casual</td><td><code>~instantâneo</code></td></tr>
 <tr><td>🐙 &nbsp;GitHub Issues</td><td>Bugs, ideias e colaboração em código</td><td><code>~12h</code></td></tr>
 </table>
