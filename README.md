@@ -112,7 +112,7 @@ const theeussx: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,vite,tailwind,html,css,mysql,git,github,vscode,linux,vercel&theme=dark&perline=9" alt="Tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,discordjs,react,vite,tailwind,html,css,mysql,git,github,vscode,linux,docker,mint,vercel&theme=dark&perline=9" alt="Tech stack icons"/>
 
 <br><br>
 
@@ -145,6 +145,8 @@ const theeussx: Developer = {
 **🗄️ &nbsp;DATA & INFRA**
 
 <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=00D4FF" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Linux"/>
+<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=00D4FF" alt="Docker"/>
 <img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC" alt="Vercel"/>
 <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316" alt="Git"/>
 
