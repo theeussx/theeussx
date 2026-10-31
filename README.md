@@ -1,215 +1,139 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     THEEUSSX · GITHUB PROFILE README
-     Tema: JARVIS / Cyberpunk / AI Interface — Dark Premium
-     100% compatível com GitHub (Markdown + HTML permitido + SVG remoto)
-     ═══════════════════════════════════════════════════════════════════════ -->
-
+ 
 <div align="center">
 
-<!-- ─────────────── BANNER PRINCIPAL ─────────────── -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,30:0B00A6,60:1E1B4B,100:312E81&text=THEEUSSX&fontColor=FFFFFF&fontSize=62&fontAlignY=34&desc=BACKEND%20%E2%80%A2%20AUTOMATION%20%E2%80%A2%20SYSTEMS%20ARCHITECTURE&descAlignY=56&descSize=15&animation=twinkling"
-  width="100%"
-  alt="Theeussx — Backend • Automation • Systems"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,35:0B00A6,70:1E1B4B,100:312E81&text=THEEUSSX&fontColor=FFFFFF&fontSize=60&fontAlignY=37&desc=BACKEND%20%7C%20AUTOMATION%20%7C%20SYSTEMS%20DEVELOPMENT&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="THEEUSSX"/>
 
-<!-- ─────────────── BOOT SEQUENCE (SVG animado próprio) ─────────────── -->
-<img
-  src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/boot-sequence.svg"
-  width="94%"
-  alt="Sequência de inicialização do sistema"
-/>
+<a href="https://theeussx.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1100&color=6366F1&center=true&vCenter=true&width=750&height=45&lines=%3E+Initializing+development+environment...;%3E+Linux+%2B+Android+systems+online.;%3E+Building+bots%2C+APIs+and+applications.;%3E+Code.+Build.+Deploy.+Repeat." alt="Typing animation"/>
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%26%20AUTOMATION-6366F1?style=for-the-badge&labelColor=020617" alt="Focus"/>
+<img src="https://img.shields.io/badge/ENV-LINUX%20%2B%20ANDROID-22D3EE?style=for-the-badge&labelColor=020617" alt="Environment"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-34D399?style=for-the-badge&labelColor=020617" alt="Status"/>
 
 <br><br>
 
-<!-- ─────────────── TYPING ANIMATION ─────────────── -->
-<a href="https://theeussx.vercel.app/">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=760&height=48&lines=%3E+Initializing+Theeussx+Core...;%3E+Backend+systems+online.;%3E+Bots+%26+APIs+deployed+successfully.;%3E+Compiling+the+future+from+a+phone.;%3E+Welcome+to+my+GitHub."
-    alt="Typing animation"
-  />
-</a>
-
-<br>
-
-<!-- ─────────────── STATUS BADGES / HUD ─────────────── -->
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-22D3EE?style=for-the-badge&labelColor=020617&color=0B1024" alt="System online"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-4F46E5?style=for-the-badge&labelColor=020617&color=0B1024" alt="Status building"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-6366F1?style=for-the-badge&labelColor=020617&color=0B1024" alt="Backend focus"/>
-<img src="https://img.shields.io/badge/DEVICE-MOBILE%20ONLY-34D399?style=for-the-badge&labelColor=020617&color=0B1024" alt="Mobile only"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=theeussx&label=NEURAL+VISITS&color=4F46E5&style=for-the-badge" alt="Profile views"/>
 <a href="https://github.com/theeussx?tab=followers">
-  <img src="https://img.shields.io/github/followers/theeussx?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=020617&color=4F46E5" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/theeussx?style=flat-square&logo=github&label=Followers&labelColor=020617&color=4F46E5" alt="Followers"/>
 </a>
-<a href="https://github.com/theeussx?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftheeussx&query=%24.public_repos&style=for-the-badge&label=REPOS&labelColor=020617&color=6366F1&logo=git&logoColor=white" alt="Public repos"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=theeussx&label=Profile+Views&color=4F46E5&style=flat-square" alt="Profile views"/>
+  <a href="https://github.com/theeussx?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftheeussx&query=%24.public_repos&label=Repositories&style=flat-square&logo=github&logoColor=white&labelColor=020617&color=6366F1"
+      alt="Public Repositories"
+    />
+  </a>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/divider.svg" width="100%" alt="divider"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     SOBRE MIM
-     ═══════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> &nbsp;`01` &nbsp;SOBRE MIM &nbsp;<img src="https://img.shields.io/badge/-user__profile.json-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
-
-<table>
-<tr>
-<td width="58%" valign="top">
+## `01`  ABOUT ME
 
 ```ts
-const theeussx: Developer = {
-  nome:      "Mateus Henrique",
-  alias:     "theeussx",
-  cargo:     "Backend Developer & Bot Creator",
-  estudo:    "Engenharia da Computação",
-  local:     "Brasil ",
-  setup:     ["Termux", "VSCode Web", "GitHub Mobile"],
-  stack:     ["TypeScript", "Node.js", "React", "MySQL"],
-  focoAtual: "APIs escaláveis, automações e sistemas",
-  filosofia: "Não é sobre as ferramentas que você tem,
-              é sobre o que você constrói com elas.",
-  status:    "online" // sempre compilando algo
+const developer = {
+  name: "Mateus Henrique",
+  username: "theeussx",
+  role: "Backend Developer & Bot Creator",
+  location: "Brazil",
+
+  environment: {
+    desktop: "Linux Mint",
+    mobile: "Android + Termux",
+    workflow: "Hybrid Development"
+  },
+
+  interests: [
+    "Backend Engineering",
+    "Bots & Automation",
+    "APIs & Integrations",
+    "Infrastructure & DevOps"
+  ],
+
+  currentlyLearning: [
+    "Software Architecture",
+    "Docker & CI/CD",
+    "Cloud Infrastructure"
+  ]
 };
 ```
 
-</td>
-<td width="42%" valign="top">
+Sou um jovem que gosta de tecnologia, automação e construção de sistemas.
+
+Meu foco principal está no desenvolvimento **back-end**, na criação de **bots**, **APIs**, integrações e ferramentas que resolvem problemas reais.
+
+Comecei desenvolvendo pelo celular e hoje utilizo um ambiente híbrido, combinando a mobilidade do **Android + Termux** com o poder de desenvolvimento do **Linux**.
+
+> **"Não é sobre as ferramentas que você tem, mas sobre o que você consegue construir com elas."**
+
+---
+
+## `02`  TECH STACK
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=340&height=110&multiline=true&lines=%3E+whoami;theeussx+%E2%80%94+backend+dev;%3E+uptime;24%2F7+building" alt="whoami"/>
+**Languages & Runtime**
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css&theme=dark" alt="Languages"/>
+
+**Backend & Frontend**
+
+<img src="https://skillicons.dev/icons?i=express,react,vite,tailwind&theme=dark" alt="Frameworks"/>
+
+**Database & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,linux,git,github,vercel&theme=dark" alt="Infrastructure"/>
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,bash,npm&theme=dark" alt="Development tools"/>
 
 </div>
 
-- 📱 &nbsp;Programador **100% mobile** — meu terminal cabe no bolso
-- 🤖 &nbsp;Criador de **bots e automações** em JS / TS
-- 🌐 &nbsp;Arquitetura **Back-end**, APIs REST e bancos de dados
-- 🚀 &nbsp;Projeto principal: **[Wardizitto](https://github.com/theeussx/Wardizitto)**
-- 🎯 &nbsp;Aprendendo: **Docker · CI/CD · Cloud**
-- ⚡ &nbsp;Fun fact: escrevo backend sem nunca abrir um notebook
+---
 
-</td>
-</tr>
-</table>
+## `03`  DEVELOPMENT ENVIRONMENT
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/divider.svg" width="100%" alt="divider"/>
-</div>
+Meu ambiente de desenvolvimento funciona de maneira **híbrida**, permitindo continuar projetos tanto no computador quanto no celular.
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     TECH STACK
-     ═══════════════════════════════════════════════════════════════════ -->
+| Environment | Technologies | Purpose |
+|:---|:---|:---|
+| **Desktop** | Linux Mint, VS Code, Docker | Desenvolvimento principal, testes e infraestrutura |
+| **Mobile** | Android, Termux, SSH | Acesso remoto, manutenção e desenvolvimento móvel |
+| **Remote** | SSH, GitHub, Git | Sincronização, versionamento e administração |
+| **Deployment** | Linux, Docker, Vercel | Hospedagem e execução de aplicações |
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> &nbsp;`02` &nbsp;TECH STACK &nbsp;<img src="https://img.shields.io/badge/-modules.load()-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
+### `~/workflow`
 
-<div align="center">
+```text
+THEEUSSX DEVELOPMENT WORKFLOW
+│
+├── Desktop Environment
+│   ├── Linux Mint
+│   ├── VS Code
+│   ├── Docker
+│   └── Local Services
+│
+├── Mobile Environment
+│   ├── Android
+│   ├── Termux
+│   ├── SSH Client
+│   └── Remote Management
+│
+└── Shared Infrastructure
+    ├── Git & GitHub
+    ├── APIs & Databases
+    └── Deployment
+```
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,discordjs,react,vite,tailwind,html,css,mysql,git,github,vscode,linux,docker,mint,vercel&theme=dark&perline=9" alt="Tech stack icons"/>
+**PC para desenvolver. Celular para continuar. Git para conectar tudo.**
 
-<br><br>
+---
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**⚙️ &nbsp;BACKEND CORE**
-
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=34D399" alt="Node.js"/>
-<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=6366F1" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=FBBF24" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Express-020617?style=for-the-badge&logo=express&logoColor=F8FAFC" alt="Express"/>
-<img src="https://img.shields.io/badge/Discord.js-020617?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord.js"/>
-
-</td>
-<td align="center" width="33%">
-
-**🎨 &nbsp;FRONTEND & UI**
-
-<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React"/>
-<img src="https://img.shields.io/badge/Vite-020617?style=for-the-badge&logo=vite&logoColor=A78BFA" alt="Vite"/>
-<img src="https://img.shields.io/badge/Tailwind-020617?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=F97316" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=3B82F6" alt="CSS3"/>
-
-</td>
-<td align="center" width="33%">
-
-**🗄️ &nbsp;DATA & INFRA**
-
-<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=00D4FF" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Linux"/>
-<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=00D4FF" alt="Docker"/>
-<img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316" alt="Git"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     FERRAMENTAS / COMMAND CENTER
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="26"> &nbsp;`03` &nbsp;COMMAND CENTER &nbsp;<img src="https://img.shields.io/badge/-mobile__only-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
-
-> ⚠️ &nbsp;**Ambiente de desenvolvimento 100% mobile.** Sem notebook. Sem desculpas.
-
-<div align="center">
-
-<table>
-<tr>
-<th align="left" width="26%">FERRAMENTA</th>
-<th align="left" width="30%">FUNÇÃO</th>
-<th align="left" width="44%">USO NO FLUXO</th>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Termux-020617?style=for-the-badge&logo=gnubash&logoColor=34D399" alt="Termux"/></td>
-<td><code>shell / runtime</code></td>
-<td>Node, npm, git, deploy e execução de bots</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/VSCode_Web-020617?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6" alt="VSCode Web"/></td>
-<td><code>editor</code></td>
-<td>Escrita de código, refactor e navegação de projeto</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/GitHub_Mobile-020617?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub Mobile"/></td>
-<td><code>versionamento</code></td>
-<td>Issues, PRs, review e gerenciamento de repositórios</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC" alt="Vercel"/></td>
-<td><code>deploy</code></td>
-<td>Hospedagem de front-ends e APIs serverless</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Insomnia-020617?style=for-the-badge&logo=insomnia&logoColor=A78BFA" alt="Insomnia"/></td>
-<td><code>testes de API</code></td>
-<td>Requisições, autenticação e debug de endpoints</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/divider.svg" width="100%" alt="divider"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     PROJETOS PINADOS
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> &nbsp;`04` &nbsp;PROJETOS PINADOS &nbsp;<img src="https://img.shields.io/badge/-projects.map()-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
+## `04`  FEATURED PROJECTS
 
 <div align="center">
 
@@ -233,7 +157,7 @@ const theeussx: Developer = {
 <img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=6366F1&labelColor=020617" alt="tag"/>
 <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=34D399&labelColor=020617" alt="tag"/>
 
-<br><sub>🤖 &nbsp;Bot de Discord multifuncional — moderação, economia, música e automações.</sub>
+<br><sub>🤖  Bot de Discord multifuncional — moderação, economia, música e automações.</sub>
 
 </td>
 <!-- ──────────── TCF ──────────── -->
@@ -254,7 +178,7 @@ const theeussx: Developer = {
 <img src="https://img.shields.io/badge/Vite-020617?style=flat-square&logo=vite&logoColor=A78BFA&labelColor=020617" alt="tag"/>
 <img src="https://img.shields.io/badge/Tailwind-020617?style=flat-square&logo=tailwindcss&logoColor=22D3EE&labelColor=020617" alt="tag"/>
 
-<br><sub>🎓 &nbsp;Site interativo do TCF — visualizações dinâmicas e navegação fluída.</sub>
+<br><sub>🎓  Site interativo do TCF — visualizações dinâmicas e navegação fluída.</sub>
 
 </td>
 </tr>
@@ -277,7 +201,7 @@ const theeussx: Developer = {
 <img src="https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=22D3EE&labelColor=020617" alt="tag"/>
 <img src="https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=F8FAFC&labelColor=020617" alt="tag"/>
 
-<br><sub>🐉 &nbsp;Painel Pterodactyl-like para Termux · Android · Ubuntu (proot).</sub>
+<br><sub>🐉  Painel Pterodactyl-like para Termux · Android · Ubuntu (proot).</sub>
 
 </td>
 <!-- ──────────── FEIRA DE MATEMÁTICA ──────────── -->
@@ -298,7 +222,7 @@ const theeussx: Developer = {
 <img src="https://img.shields.io/badge/Vite-020617?style=flat-square&logo=vite&logoColor=A78BFA&labelColor=020617" alt="tag"/>
 <img src="https://img.shields.io/badge/Vercel-020617?style=flat-square&logo=vercel&logoColor=F8FAFC&labelColor=020617" alt="tag"/>
 
-<br><sub>📐 &nbsp;Aplicação educativa — projetos de matemática com imersão e impacto.</sub>
+<br><sub>📐  Aplicação educativa — projetos de matemática com imersão e impacto.</sub>
 
 </td>
 </tr>
@@ -309,151 +233,81 @@ const theeussx: Developer = {
 <div align="center">
 <img src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/divider.svg" width="100%" alt="divider"/>
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     OBJETIVOS — TERMINAL
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sY4wA43/giphy.gif" width="26"> &nbsp;`05` &nbsp;OBJETIVOS ATUAIS &nbsp;<img src="https://img.shields.io/badge/-~%2Fgoals-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
-
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/terminal-goals.svg"
-  width="94%"
-  alt="Terminal com objetivos atuais"
-/>
+<a href="https://github.com/theeussx?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0B00A6?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
+</a>
 
 </div>
+
+---
+
+## `05`  CURRENT FOCUS
 
 ```bash
-theeussx@core:~$ ./roadmap --year 2026 --verbose
+theeussx@linux:~$ ./roadmap --active
 
-[■■■■■■■□□□]  72%  ▸ Arquitetura de APIs REST + GraphQL
-[■■■■□□□□□□]  41%  ▸ Docker, CI/CD e Cloud (AWS / Railway)
-[■■■□□□□□□□]  30%  ▸ Publicar meu primeiro pacote npm
-[■■□□□□□□□□]  25%  ▸ Portfólio full-stack
+[01] Building scalable backend systems
+[02] Improving API architecture and security
+[03] Exploring Docker, CI/CD and cloud deployment
+[04] Developing cross-platform tools
+[05] Contributing to open-source projects
 
-theeussx@core:~$ echo $MOTIVATION
-> "Cada commit é uma linha a mais no meu futuro."
-
-theeussx@core:~$ _
+theeussx@linux:~$
 ```
 
+---
+
+## `06`  GITHUB ANALYTICS
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/divider.svg" width="100%" alt="divider"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=theeussx&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="170" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theeussx&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="170" alt="Most Used Languages"/>
+
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     GITHUB STATS
-     ═══════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> &nbsp;`06` &nbsp;NEURAL METRICS &nbsp;<img src="https://img.shields.io/badge/-github.stats-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=theeussx&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=theeussx&theme=github_dark&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theeussx&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/divider.svg" width="100%" alt="divider"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     SNAKE ANIMATION
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> &nbsp;`07` &nbsp;DATA STREAM &nbsp;<img src="https://img.shields.io/badge/-snake.exe-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
+## `07`  CONTRIBUTION ACTIVITY
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theeussx/theeussx/output/snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theeussx/theeussx/output/snake.svg"/>
-  <img src="https://raw.githubusercontent.com/theeussx/theeussx/output/snake.svg" width="100%" alt="Snake devorando as contribuições"/>
+  <img src="https://raw.githubusercontent.com/theeussx/theeussx/output/snake.svg" width="100%" alt="Contribution Snake"/>
 </picture>
 
-<sub>🐍 <i>O sistema consome cada contribuição — gerado automaticamente via GitHub Actions.</i></sub>
-
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/theeussx/theeussx/main/assets/divider.svg" width="100%" alt="divider"/>
-</div>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     REDES SOCIAIS
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> &nbsp;`08` &nbsp;CONEXÕES &nbsp;<img src="https://img.shields.io/badge/-network.connect()-020617?style=flat-square&labelColor=020617&color=0B1024" height="20"/>
+## `08`  CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/theeussx">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020617" alt="GitHub" height="38"/>
-</a>
-<a href="https://www.instagram.com/theeussx_">
-  <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=F472B6&labelColor=020617" alt="Instagram" height="38"/>
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://theeussx.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=020617" alt="Portfólio" height="38"/>
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto: mateushenrique6968@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-020617?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=020617" alt="E-mail" height="38"/>
+<a href="https://www.instagram.com/theeussx_">
+  <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=F472B6" alt="Instagram"/>
+</a>
+<a href="mailto:mateushenrique6968@gmail.com">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email"/>
 </a>
 
 <br><br>
 
-<details>
-<summary><b>📡 &nbsp;ABRIR CANAL DE COMUNICAÇÃO</b></summary>
+**Open to collaboration, open source and interesting projects.**
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:312E81,40:1E1B4B,75:0B00A6,100:020617&section=footer" width="100%" alt="Footer"/>
 
-<table>
-<tr>
-<th align="left">CANAL</th>
-<th align="left">PARA QUÊ</th>
-<th align="left">TEMPO DE RESPOSTA</th>
-</tr>
-<tr><td>📧 &nbsp;E-mail</td><td>Propostas formais e parcerias</td><td><code>~24h</code></td></tr>
-<tr><td>📸 &nbsp;Instagram</td><td>Bastidores e papo casual</td><td><code>~instantâneo</code></td></tr>
-<tr><td>🐙 &nbsp;GitHub Issues</td><td>Bugs, ideias e colaboração em código</td><td><code>~12h</code></td></tr>
-</table>
-
-<br>
-
-> 💡 &nbsp;**Aberto a:** projetos back-end, desenvolvimento de bots, automações e colaborações open source.
-
-</details>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     RODAPÉ
-     ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br>
-
-<img
-  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3800&pause=1100&color=22D3EE&center=true&vCenter=true&width=620&height=45&lines=%3E+Session+ended.+System+still+running...;%3E+See+you+in+the+next+commit.;%3E+shutdown+--never"
-  alt="Final transmission"
-/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Made_with-CODE_%26_CURIOSITY-020617?style=for-the-badge&labelColor=020617&color=4F46E5" alt="Made with"/>
-<img src="https://img.shields.io/badge/Powered_by-A_MOBILE_TERMINAL-020617?style=for-the-badge&labelColor=020617&color=22D3EE" alt="Powered by"/>
-
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:312E81,30:1E1B4B,70:0B00A6,100:020617&section=footer&animation=twinkling&reversal=true"
-  width="100%"
-  alt="Footer"
-/>
-
-<sub>⚡ <b>THEEUSSX CORE v4.0.1</b> &nbsp;·&nbsp; Built with curiosity, code and a mobile terminal &nbsp;·&nbsp; <code>© 2026</code></sub>
+<sub>THEEUSSX CORE v5.0 · Linux + Android · Built with code & curiosity · 2026</sub>
 
 </div>
