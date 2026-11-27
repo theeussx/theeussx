@@ -292,7 +292,7 @@ theeussx@linux:~$
 <a href="https://github.com/theeussx">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://theeussx.vercel.app/">
+<a href="https://www.theeussx.online/">
   <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.instagram.com/theeussx_">
