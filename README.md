@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,35:0B00A6,70:1E1B4B,100:312E81&text=THEEUSSX&fontColor=FFFFFF&fontSize=60&fontAlignY=37&desc=BACKEND%20%7C%20AUTOMATION%20%7C%20SYSTEMS%20DEVELOPMENT&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="THEEUSSX"/>
 
-<a href="https://theeussx.vercel.app/">
+<a href="https://theeussx.online/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1100&color=6366F1&center=true&vCenter=true&width=750&height=45&lines=%3E+Initializing+development+environment...;%3E+Linux+%2B+Android+systems+online.;%3E+Building+bots%2C+APIs+and+applications.;%3E+Code.+Build.+Deploy.+Repeat." alt="Typing animation"/>
 </a>
 
